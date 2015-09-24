@@ -1,0 +1,26 @@
+html, body { width:100%; height:100%;  } 
+* { margin:0; padding:0; }
+
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #eee;
+}
+
+.hover {
+	border-color: #000 !important; 
+	border-style: dotted !important;
+	border-width: 3px !important;
+} 
+
+.clear {
+	border-width: 0px;
+}
+
+#canvas {
+  display: block;
+  margin: auto;
+  background-color: #eee;
+  border-style: solid;
+
+}
